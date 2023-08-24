@@ -87,7 +87,7 @@ urls='''
 45. https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal
 '''
 urls_list = extract_github_urls(urls)
-token = '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'  # your github token
+token = ''  # your github token
 
 
 for i in range(len(urls_list)):
