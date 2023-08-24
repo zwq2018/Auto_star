@@ -1,2 +1,2 @@
 # Auto_star
-auto star for repo lists
+The purpose of this project is to star the GitHub repository automatically.
