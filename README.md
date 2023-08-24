@@ -30,11 +30,16 @@ The purpose of this project is to star the GitHub repository automatically.
 
 ## Step 2 Copy the repo list you want to star automatically**
 
+🌿🌿
+
+<img width="780" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/68871f04-ffeb-40c1-a262-865b5ed516e1">
 
 
 ## Step3 Run the code with your token**
 
+🌿🌿
 
+<img width="943" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a4d31d88-8708-4906-b620-92e61604425f">
 
 
 
