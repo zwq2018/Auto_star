@@ -25,7 +25,7 @@ The purpose of this project is to star the GitHub repository automatically.
 
 <img width="921" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/3e8e4fa4-afdf-440b-b716-fcb32c23bf2c">
 
-**Please open your permissions by ticking**
+⭐⭐ **Please open your permissions by ticking**
 
 
 ## Step 2 Copy the repo list you want to star automatically**
