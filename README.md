@@ -1,7 +1,7 @@
 # Auto_star
 The purpose of this project is to star the GitHub repository automatically.
 
-## Step 1 Get your Github token
+## Step 1 Get your Github token  shortcut: https://github.com/settings/tokens/new
 
 🌿🌿 Settings
 
