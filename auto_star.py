@@ -46,7 +46,7 @@ urls='''
 4. https://github.com/xxx/xxx4
 5. https://github.com/xxx/xxx5
 '''
-urls_list = extract_github_urls(URLs)
+urls_list = extract_github_urls(urls)
 # Replace 'YOUR_GITHUB_TOKEN' with your actual token
 token = ''  # your github token
 
