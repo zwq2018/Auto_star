@@ -19,8 +19,6 @@ The purpose of this project is to star the GitHub repository automatically.
 ## Step3 Run the code with your token**
 
 
-<img width="1319" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/2f0fa4f5-608b-448c-bc44-c6929ed26324">
-
 
 
 
