@@ -1,7 +1,7 @@
 # Auto_star
 The purpose of this project is to star the GitHub repository automatically.
 
-## Step 1 Get your Github token**
+## Step 1 Get your Github token
 
 
 <img width="605" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/5776b65b-d874-46d6-ba31-bf10b41a5c2c">
