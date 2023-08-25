@@ -30,7 +30,7 @@ python auto_star.py
 
 
 - Step3: Run the code with your token
-> <img width="943" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a4d31d88-8708-4906-b620-92e61604425f">
+> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a4d31d88-8708-4906-b620-92e61604425f">
 
 
 
