@@ -11,14 +11,14 @@ The purpose of this project is to star the GitHub repository automatically
 
 
 ## 🌳🌳 QuickStart
-Then run the following command:
+Our project provides both gradio and local runs
 
-### In gradio
+### Run gradio
  ```bash
 python app.py
 ```
 
-### In local
+### Run local
  ```bash
 python auto_star.py
 ```
@@ -31,6 +31,8 @@ python auto_star.py
 
 - Step3: Run the code with your token
 > <img width="943" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a4d31d88-8708-4906-b620-92e61604425f">
+
+
 
 ## How to get your Github token  
 
