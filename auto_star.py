@@ -2,6 +2,48 @@ import requests
 import re
 
 
+def get_star_list_for_repo(owner, repo):
+    """
+    Retrieve a list of users who have starred a GitHub repository.
+
+    :param owner: The owner of the repo you want to check.
+    :param repo: The name of the repo you want to check.
+    :return: List of usernames who have starred the repo.
+    """
+    url = f"https://api.github.com/repos/{owner}/{repo}/stargazers"
+
+    headers = {
+        "Accept": "application/vnd.github.v3+json"
+    }
+
+    star_users = []
+
+    while url:
+        response = requests.get(url, headers=headers)
+
+        if response.status_code != 200:
+            print(
+                f"Failed to retrieve stargazers for {owner}/{repo}. Response code: {response.status_code}, Response message: {response.text}")
+            return []
+
+        for user in response.json():
+            star_users.append(user['login'])
+
+        # Pagination
+        if 'next' in response.links:
+            url = response.links['next']['url']
+        else:
+            break
+
+    return star_users
+
+
+def check_star_for_repo(owner, repo, id):
+    user_list = get_star_list_for_repo(owner, repo)
+    if id in user_list:
+        return True
+    else:
+        return False
 
 def extract_github_urls(input_text):
     return re.findall(r"https://github\.com/[^/]+/[^/\s]+", input_text)
