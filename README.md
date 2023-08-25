@@ -34,7 +34,7 @@ python auto_star.py
 
 
 
-## How to get your github token
+## how to get your github token
 
 > **shortcut: https://github.com/settings/tokens/new**
 
