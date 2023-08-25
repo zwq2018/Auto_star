@@ -40,23 +40,21 @@ python auto_star.py
 
 🌿🌿 Settings
 
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/5776b65b-d874-46d6-ba31-bf10b41a5c2c">
+<img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/e3a7aee3-486e-4475-a1e5-041801926f86">
+
 
 🌿🌿 Developer Settings
 
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/e9478fd8-ad6d-4ee3-8dfc-3421df1d0cc3">
+<img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/7e0b0793-ee1c-481d-8b72-6598d63461b4">
 
-🌿🌿 Tokens
-
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/52b227f9-6ef7-41ff-8b86-dd693d6559fc">
 
 🌿🌿 Generate new token
 
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a04264ab-d20c-4e4c-be29-e841d3231a60">
+<img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/29695720-9309-4b69-92f3-065b1ee49988">
 
-🌿🌿 Set your personal token
+🌿🌿 Set your personal permissions
 
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/3e8e4fa4-afdf-440b-b716-fcb32c23bf2c">
+<img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/6b511e2d-f2bb-4896-993f-a603f6ff86f6">
 
 ⭐⭐ **Please open your permissions by ticking**
 
