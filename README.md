@@ -22,7 +22,7 @@ python app.py
  ```bash
 python auto_star.py
 ```
-- Step1: get your github token [Getting github token](how-to-get-your-github-token)
+- Step1: get your github token [Getting github token](#how-to-get-your-github-token)
   
 - Step2: Copy the repo list you want to star automatically**
 
