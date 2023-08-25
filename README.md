@@ -22,7 +22,7 @@ python app.py
  ```bash
 python auto_star.py
 ```
-- Step1: get your github token [Getting github token](How to get your Github token)
+- Step1: get your github token [Getting github token](token)
   
 - Step2: Copy the repo list you want to star automatically**
 
@@ -33,7 +33,7 @@ python auto_star.py
 > <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/a4d31d88-8708-4906-b620-92e61604425f">
 
 
-
+<a id="token"></a>
 ## How to get your Github token
 
 > **shortcut: https://github.com/settings/tokens/new**
