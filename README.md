@@ -15,7 +15,7 @@ Then run the following command:
 
 ### In gradio
  ```bash
-python main.py
+python app.py
 ```
 
 ### In local
