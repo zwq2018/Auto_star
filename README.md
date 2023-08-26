@@ -3,12 +3,12 @@ The purpose of this project is to star the GitHub repository automatically
 
 ## 🔥🔥 What can it do?
 **Function1: Enter the repo list you want to star and fill in your github token to automatically star all the repos**.
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/4e515a1c-6cc9-442c-98c0-c814b20caeca">
+<img width="700" alt="Xnip2023-08-26_16-37-30" src="https://github.com/zwq2018/Auto_star/assets/44236100/752022bd-89d4-43cd-a25b-a3b070b3c0d1">
 
 
 **Function2: Automatically check if a user has starred these repos**
-> <img width="700" alt="image" src="https://github.com/zwq2018/Auto_star/assets/44236100/72598f75-c41d-43d9-a2da-0eab0fbd8319">
 
+<img width="700" alt="Xnip2023-08-26_16-36-59" src="https://github.com/zwq2018/Auto_star/assets/44236100/9c67a974-5157-4d12-892a-2759db0544f3">
 
 ## 🌳🌳 QuickStart
 Our project provides both gradio and local runs
